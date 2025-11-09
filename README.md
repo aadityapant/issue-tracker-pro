@@ -28,7 +28,7 @@ Issue Tracker Pro is a web application developed using Java SpringBoot for the b
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/BugTrackerX.git
+   git clone https://github.com/your-username/issue-tracker-pro.git
    cd BugTrackerX
    ```
 
