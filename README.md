@@ -29,7 +29,7 @@ Issue Tracker Pro is a web application developed using Java SpringBoot for the b
 
    ```bash
    git clone https://github.com/your-username/issue-tracker-pro.git
-   cd BugTrackerX
+   cd issue-tracker-pro
    ```
 
 ### Backend Setup
