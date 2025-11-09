@@ -1,6 +1,6 @@
 # Issue Tracker Pro Project
 
-BugTrackerX is a web application developed using Java SpringBoot for the backend and Angular for the frontend. It aims to provide an efficient bug tracking system with different modules for administrators, staff, and customers.
+Issue Tracker Pro is a web application developed using Java SpringBoot for the backend and Angular for the frontend. It aims to provide an efficient bug tracking system with different modules for administrators, staff, and customers.
 
 ## Features
 
